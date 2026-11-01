@@ -1,0 +1,4 @@
+interface:
+  display_name: "PSX Investing & Trading"
+  short_description: "PSX value investing, swing trades and Shariah checks"
+  default_prompt: "Use $psx-investing for a quick cached watchlist update, reporting changed calls, key levels, Shariah changes and data gaps. Run a full PSX screen only when requested."
